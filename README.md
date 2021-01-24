@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a JavaScript Task Planner. 
+- 🌱 I’m currently learning JavaScript.
+- 👯 I’m looking to collaborate on JavaScript projects.
+- 🤔 I’m looking for help with React.
+- 💬 Ask me about why the world is round.
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <!--
 **apalada-uni/apalada-uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
